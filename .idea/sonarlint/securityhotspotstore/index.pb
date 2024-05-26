@@ -1,10 +1,6 @@
 
-P
- src/main/java/org/data/Main.java,2\8\288df98e63d897063d1a97ecd253b0b3dd9c76e8
 <
 build.gradle,f\0\f07866736216be0ee2aba49e392191aeae700a35
-P
- src/main/java/org/goit/Main.java,3\4\340e26705afaecf5d3c9b58168573b5a319d74d7
 ]
 -src/test/java/org/goit/SumCalculatorTest.java,4\d\4d6810cec5067dad0c9559d1e73bfdfb89bbfeca
 T
